@@ -5,3 +5,4 @@ This is a basic python code and uses knowledge of Cyber Security to get the full
 
 Required Libraries of Python : hashlib
 
+**For Ethical Use Only**
